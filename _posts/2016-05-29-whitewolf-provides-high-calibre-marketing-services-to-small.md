@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.'
-datePublished: '2016-05-29T06:19:36.589Z'
-dateModified: '2016-05-29T06:18:58.841Z'
+datePublished: '2016-05-29T06:21:04.631Z'
+dateModified: '2016-05-29T06:20:34.302Z'
 title: 'WEB DESIGN '
 author: []
 sourcePath: _posts/2016-05-29-whitewolf-provides-high-calibre-marketing-services-to-small.md
@@ -17,7 +17,8 @@ url: whitewolf-provides-high-calibre-marketing-services-to-small/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c94d53c-f267-46ab-a52f-e1dece073420.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d75cb6-491f-40d3-bfc4-950a11e670de.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf9382b282160db6567aad81d6583f753913641e.jpg)
 
 WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.
 
@@ -38,6 +39,4 @@ Harmonise content across your business by streamlining web, digital and print ma
 Transform your brand with stunning designs that fuse intelligence and creativity with simplicity. 
 
 * eBooks, Interactive PDF, Electronic Questionnaires, Presentation,s Training documents, eMind-Maps, eMagazines, eMail Marketing Campaigns
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d75cb6-491f-40d3-bfc4-950a11e670de.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2573153d-7d8a-4450-b6dd-9806669c275d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff1ff639-d9d2-44ad-a208-c66b85ab030e.jpg)
