@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.'
-datePublished: '2016-05-29T05:52:38.436Z'
-dateModified: '2016-05-29T05:52:21.095Z'
+datePublished: '2016-05-29T06:05:17.062Z'
+dateModified: '2016-05-29T06:04:46.802Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-29-whitewolf-provides-high-calibre-marketing-services-to-small.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-29-whitewolf-provides-high-calibre-marketing-services-to-small.md
 url: whitewolf-provides-high-calibre-marketing-services-to-small/index.html
 _type: Article
 
@@ -21,8 +21,14 @@ _type: Article
 
 WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.
 
-WEB DESIGN Exceptional websites that are easy to manage, simple to navigate and convey your message in a clear, concise and powerful way
+## WEB DESIGN Exceptional websites that are easy to manage, simple to navigate and convey your message in a clear, concise and powerful way
 
-PRINT DESIGN Harmonise content across your business by streamlining web, digital and print materials to reinforce brand awareness. 
+For business, personal profiling, e-commerce or blogging. Forefront of design technology. Integrated Social Media Responsive design and interactive Best practices for SEO
 
-DIGITAL MEDIA Transform your brand with stunning designs that fuse intelligence and creativity with simplicity.
+## PRINT DESIGN Harmonise content across your business by streamlining web, digital and print materials to reinforce brand awareness. 
+
+Brand in a Box, Brochures, Billboards, Flyers, Booklets, Magazines, Advertisements, Business cards
+
+## DIGITAL MEDIA Transform your brand with stunning designs that fuse intelligence and creativity with simplicity. 
+
+eBooks, Interactive PDF, Electronic Questionnaires, Presentation,s Training documents, eMind-Maps, eMagazines, eMail Marketing Campaigns
