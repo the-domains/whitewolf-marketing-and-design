@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Exceptional websites that are easy to manage, simple to navigate and convey your message in a clear, concise and powerful way'
-datePublished: '2016-05-29T06:23:08.584Z'
-dateModified: '2016-05-29T06:23:01.177Z'
+datePublished: '2016-05-29T06:24:52.287Z'
+dateModified: '2016-05-29T06:23:14.323Z'
 title: 'WEB DESIGN '
 author: []
 sourcePath: _posts/2016-05-29-whitewolf-provides-high-calibre-marketing-services-to-small.md
