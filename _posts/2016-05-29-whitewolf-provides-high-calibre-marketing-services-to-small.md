@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.'
-datePublished: '2016-05-29T06:17:53.243Z'
-dateModified: '2016-05-29T06:17:48.341Z'
+datePublished: '2016-05-29T06:19:36.589Z'
+dateModified: '2016-05-29T06:18:58.841Z'
 title: 'WEB DESIGN '
 author: []
 sourcePath: _posts/2016-05-29-whitewolf-provides-high-calibre-marketing-services-to-small.md
@@ -17,6 +17,8 @@ url: whitewolf-provides-high-calibre-marketing-services-to-small/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c94d53c-f267-46ab-a52f-e1dece073420.jpg)
+
 WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.
 
 ## WEB DESIGN 
