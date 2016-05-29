@@ -1,0 +1,28 @@
+name: 'WhiteWolf Marketing & Design'
+favicon: null
+layout_spectrum: 0.15960403624922037
+typography_spectrum: 0.5816861821804196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7396699707023799
+  lightness: 0.40651349700056016
+  saturation: 0.5679724190849811
+  rhythmicContrast: 0.47835101280361414
+purpose: []
