@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WhiteWolf Marketing & Design]]></title>
+        <description><![CDATA[WhiteWolf Marketing & Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 May 2016 05:52:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WhiteWolf provides high-calibre marketing services to small businesses, transformational causes and services that establish professional branding, increase revenue and grow your audience.</p>]]></description>
+            <link>undefinedwhitewolf-provides-high-calibre-marketing-services-to-small/index.html</link>
+            <guid isPermaLink="false">876b2695-7764-4472-a4f6-a4668626ae84</guid>
+            <pubDate>Sun, 29 May 2016 05:52:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
