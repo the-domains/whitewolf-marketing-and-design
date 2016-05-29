@@ -1,7 +1,7 @@
 name: 'WhiteWolf Marketing & Design'
 favicon: null
 layout_spectrum: 0.44998
-typography_spectrum: 0.5816861821804196
+typography_spectrum: 0.92842
 title: Web Design made simple
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f6f7fb'
     - '#585254'
     - '#7a7375'
-  brandStrength: 0.6875
-  lightness: 0.40651349700056016
-  saturation: 0.5625
+  brandStrength: 0.875
+  lightness: 0.625
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
